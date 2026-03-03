@@ -34,7 +34,6 @@
     "@sentry/nextjs": "^10.40.0",
     "@tanstack/react-query": "^5.62.8",
     "@types/jsonwebtoken": "^9.0.10",
-    "@types/nodemailer": "^7.0.11",
     "@upstash/redis": "^1.36.3",
     "bcryptjs": "^2.4.3",
     "class-variance-authority": "^0.7.1",
@@ -67,6 +66,7 @@
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^22.19.13",
+    "@types/nodemailer": "^7.0.11",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
     "@typescript-eslint/eslint-plugin": "^8.18.2",
